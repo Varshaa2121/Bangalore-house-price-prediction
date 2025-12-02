@@ -28,17 +28,10 @@ This project is an **end-to-end Machine Learning and web development solution** 
 ---
 
 ## 🛠 Project Includes
-- Data preprocessing and cleaning using **Pandas**  
-- Data visualization using **Matplotlib**  
-- Outlier detection and removal  
-- Feature engineering and dimensionality reduction  
-- Model building and evaluation using **scikit-learn**  
-- Hyperparameter tuning using **GridSearchCV**  
-- Cross-validation using **K-Fold**  
-- Model serialization using **pickle**  
-- Building a REST API using **Flask**  
-- Frontend development with **HTML, CSS, and JavaScript**  
-- Full integration of machine learning with web applications
+- **Data preprocessing, visualization, and feature engineering** (Pandas, Matplotlib)  
+- **Model building, evaluation, and hyperparameter tuning** (scikit-learn, GridSearchCV, K-Fold)  
+- **REST API using Flask and frontend development** (HTML, CSS, JavaScript)  
+- **Model serialization** using pickle  
 
 ---
 
