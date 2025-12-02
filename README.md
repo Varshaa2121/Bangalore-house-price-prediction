@@ -38,7 +38,7 @@ This project is an **end-to-end Machine Learning and web development solution** 
 ## 📦 Note on Pickle File
 The trained model file (`bangalore_home_prices_model.pkl`) is **not included** in this repository due to GitHub size limits.
 
-**Instructions for others:**
+**Instructions :**
 1. Run the notebook to train the model.  
 2. Save the trained model using **pickle** or **joblib**.  
 3. Place the file in the appropriate folder for the app to work.
